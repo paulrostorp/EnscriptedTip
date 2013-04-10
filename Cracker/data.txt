@@ -1,0 +1,14 @@
+"DVD_Title","Studio","Released","Status","Sound","Versions","Price","Rating","Year","Genre","Aspect","UPC","DVD_ReleaseDate","ID","Timestamp"
+"!!!! Beat, Vol. 1: Shows 01 - 05","Bear Family",,"Discontinued","2.0","4:3",45.98,"NR","UNK","Music","1.33:1","4000127201263",2005-05-10 00:00:00,61689,2012-12-24 00:00:00
+"!!!! Beat, Vol. 2: Shows 06 - 09","Bear Family",,"Discontinued","2.0","4:3",45.98,"NR","UNK","Music","1.33:1","4000127201270",2005-05-10 00:00:00,61690,2012-12-24 00:00:00
+"!!!! Beat, Vol. 3: Shows 10 - 13","Bear Family",,"Discontinued","2.0","4:3",45.98,"NR","UNK","Music","1.33:1","4000127201287",2005-05-10 00:00:00,61702,2012-12-24 00:00:00
+"!!!! Beat, Vol. 4: Shows 14 - 17","Bear Family",,"Discontinued","2.0","4:3",45.98,"NR","UNK","Music","1.33:1","4000127201294",2005-07-12 00:00:00,65695,2012-12-24 00:00:00
+"!!!! Beat, Vol. 5: Shows 18 - 21","Bear Family",,"Discontinued","2.0","4:3",45.98,"NR","UNK","Music","1.33:1","4000127201300",2005-07-12 00:00:00,65707,2012-12-24 00:00:00
+"!!!! Beat, Vol. 6: Shows 22 - 26","Bear Family",,"Discontinued","2.0","4:3",45.98,"NR","UNK","Music","1.33:1","4000127201317",2005-07-12 00:00:00,65757,2012-12-24 00:00:00
+"!Hero: The Rock Opera: Live On Stage (2-Disc Collector's Edition)","ForeFront Records",,"Discontinued","5.1","4:3",19.98,"NR","UNK","Music","1.33:1","724359983592",2005-03-29 00:00:00,60970,2006-05-27 00:00:00
+"!K7 150","!K7",,"Out","2.0","4:3",11.99,"NR","UNK","Music","1.33:1","730003715099",2003-08-12 00:00:00,31992,2012-02-10 00:00:00
+"!Women Art Revolution","Zeitgeist",,"Out","2.0","LBX, 16:9",29.99,"NR","2010","Documentary","1.85:1","795975113939",2012-03-20 00:00:00,220757,2012-03-20 00:00:00
+"#1 Latino Hits","BMG Music",,"Discontinued","2.0","4:3",19.98,"NR","UNK","Music","1.33:1","743219736994",2002-11-19 00:00:00,22659,2005-02-03 00:00:00
+"#ReGeneration","Virgil Films and Entertainment",,"Out","2.0","LBX, 16:9",19.99,"NR","UNK","Documentary","1.85:1","829567081921",2012-08-28 00:00:00,228809,2012-08-28 00:00:00
+"$ [Dollars]","Columbia/Tri-Star",,"Discontinued","2.0","LBX, 16:9",19.99,"R","1971","Comedy","1.85:1","043396268807",2008-09-23 00:00:00,141283,2013-02-15 00:00:00
+"$100 & A T-shirt: A Documentary About Zines In Portland","Microcosm Publishing",,"Out","2.0","4:3",12.95,"NR","2004","Special Interest","1.33:1","9781621063872",2004-10-01 00:00:00,221551,2012-01-05 00:00:00
